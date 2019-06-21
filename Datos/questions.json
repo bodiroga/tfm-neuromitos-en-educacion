@@ -1,0 +1,102 @@
+{
+    "1. Usamos el cerebro 24 horas al día. ": 
+        { "myth": false,
+          "correct_answer": "Verdadero"  
+        },
+    "2. Los niños deben adquirir su lengua materna antes de aprender una segunda lengua. Si no lo hacen así, ninguna de las dos lenguas será adquirida por completo.":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "3. Los niños tienen el cerebro más grande que las niñas. ":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "4. Cuando se daña una región del cerebro, otras partes del cerebro pueden asumir su función. ":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "5. Solo usamos el 10% del cerebro.":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "6. Los hemisferios izquierdo y derecho del cerebro siempre trabajan juntos.":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "7. Las diferencias en el hemisferio dominante (cerebro izquierdo, cerebro derecho) pueden ayudar a explicar las diferencias individuales entre estudiantes. ":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "8. Los cerebros de los niños y de las niñas se desarrollan al mismo ritmo. ":
+        { "myth": false,
+          "correct_answer": "Falso"
+        },
+    "9. El desarrollo del cerebro finaliza para cuando los niños y niñas llegan a secundaria. ":
+        { "myth": false,
+          "correct_answer": "Falso"
+        },
+    "10. Hay períodos críticos en la infancia después de los cuales ciertas cosas ya no pueden ser aprendidas. ":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "11. Las personas aprenden mejor cuando reciben la información en su estilo de aprendizaje preferido (ej. auditivo, visual y cinestésico). ":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "12. El aprendizaje se produce mediante la modificación de las conexiones neuronales del cerebro. ":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "13. Los entornos que son ricos en estímulos mejoran los cerebros de los niños y niñas preescolares. ":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "14. Los ejercicios que promueven la coordinación de las habilidades perceptivo-motoras pueden mejorar las destrezas en lecto-escritura. ":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "15. La práctica repetida de algunos procesos mentales puede cambiar la forma y la estructura de algunas partes del cerebro. ":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "16. Cada alumno muestra una preferencia por el modo en que recibe la información (ej. visual, auditivo, cinestésico). ":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "17. Los problemas de aprendizaje asociados con diferencias de desarrollo en la función cerebral no pueden remediarse mediante la educación.":
+        { "myth": true,
+          "correct_answer": "Falso"
+        },
+    "18. La producción de nuevas conexiones en el cerebro puede continuar hasta la vejez. ":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "19. La inteligencia tiene una componente hereditaria.":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "20. La inteligencia puede variar con el ambiente o la experiencia.":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "21. La inteligencia es única.":
+        { "myth": false,
+          "correct_answer": "Falso"
+        },
+    "22. Los genes influyen en la personalidad de los estudiantes.":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "23. Los niños y las niñas tienen diferentes habilidades cognitivas.":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        },
+    "24. Los videojuegos violentos hacen que los niños se vuelvan más violentos.":
+        { "myth": false,
+          "correct_answer": "Falso"
+        },
+    "25. Aprender dos idiomas supone una ventaja cognitiva.":
+        { "myth": false,
+          "correct_answer": "Verdadero"
+        }
+}
