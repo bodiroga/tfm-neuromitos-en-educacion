@@ -10,7 +10,7 @@ La estructura del repositorio está compuesta por las siguientes carpetas:
 
 - Cuestionario: ítems empleados en la elaboración de la encuesta.
 - Datos: carpeta con diferentes ficheros con los datos usados para el análisis.
-- Análisis: código Python ejectuado, en Notebooks de Jupyter, a través del cual se han generado las tablas y el análisis de regresión lineal.
+- Análisis: código Python ejecutado, en Notebooks de Jupyter, a través del cual se han generado las tablas y el análisis de regresión lineal.
 - Tablas: tablas generadas e incluidas en el trabajo final.
 
 Todas las críticas, sugerencias y aportaciones son bienvenidas.
